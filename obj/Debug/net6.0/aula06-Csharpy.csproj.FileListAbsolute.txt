@@ -1,0 +1,15 @@
+/Users/isabelcatao/Projects/teste/teste/obj/Debug/net6.0/aula06-Csharpy.csproj.AssemblyReference.cache
+/Users/isabelcatao/Projects/teste/teste/obj/Debug/net6.0/aula06-Csharpy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isabelcatao/Projects/teste/teste/obj/Debug/net6.0/aula06-Csharpy.AssemblyInfoInputs.cache
+/Users/isabelcatao/Projects/teste/teste/obj/Debug/net6.0/aula06-Csharpy.AssemblyInfo.cs
+/Users/isabelcatao/Projects/teste/teste/obj/Debug/net6.0/aula06-Csharpy.csproj.CoreCompileInputs.cache
+/Users/isabelcatao/Projects/teste/teste/bin/Debug/net6.0/aula06-Csharpy
+/Users/isabelcatao/Projects/teste/teste/bin/Debug/net6.0/aula06-Csharpy.deps.json
+/Users/isabelcatao/Projects/teste/teste/bin/Debug/net6.0/aula06-Csharpy.runtimeconfig.json
+/Users/isabelcatao/Projects/teste/teste/bin/Debug/net6.0/aula06-Csharpy.dll
+/Users/isabelcatao/Projects/teste/teste/bin/Debug/net6.0/aula06-Csharpy.pdb
+/Users/isabelcatao/Projects/teste/teste/obj/Debug/net6.0/aula06-Csharpy.dll
+/Users/isabelcatao/Projects/teste/teste/obj/Debug/net6.0/refint/aula06-Csharpy.dll
+/Users/isabelcatao/Projects/teste/teste/obj/Debug/net6.0/aula06-Csharpy.pdb
+/Users/isabelcatao/Projects/teste/teste/obj/Debug/net6.0/aula06-Csharpy.genruntimeconfig.cache
+/Users/isabelcatao/Projects/teste/teste/obj/Debug/net6.0/ref/aula06-Csharpy.dll
